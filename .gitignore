@@ -1,0 +1,5 @@
+.clang/*
+.codelite
+Makefile
+compile_commands.json
+*.workspace
