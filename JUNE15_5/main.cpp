@@ -41,7 +41,7 @@ int main(int argc, char **argv)
             
             table[hash]++;
             m++;
-        }
+        }ss
         
         int freq[N+5];
         for (int i = 0; i < N; ++i)

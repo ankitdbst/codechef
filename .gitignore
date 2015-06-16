@@ -3,3 +3,6 @@
 Makefile
 compile_commands.json
 *.workspace
+*.o
+*.d
+*.exe
